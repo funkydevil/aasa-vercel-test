@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "S597U6Y959.com.defiway.wallet.dev",
+                "paths": [
+                    "/open_url*",
+                    "/ton-connect*"
+                ]
+            },
+            {
+                "appID": "S597U6Y959.com.defiway.wallet.app",
+                "paths": [
+                    "/open_url*",
+                    "/ton-connect*"
+                ]
+            }
+        ]
+    }
+}
